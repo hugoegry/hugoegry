@@ -183,6 +183,9 @@ I am currently seeking a <strong>work-study</strong> opportunity to apply my ski
     <td align="center" width="400">
       A modern application for streaming music using the Deezer API. Features include dynamic playlist generation, artist search, and real-time audio playback. Designed with a modular architecture and responsive UI.
     </td>
+    <td align="center" width="200">
+      <a href="https://github.com/hugoegry/DeezerPlayer"><img src="https://img.shields.io/badge/View%20Code-333333?logo=codecrafters&logoColor=white"/></a>
+    </td>
   </tr>
 </table>
 
