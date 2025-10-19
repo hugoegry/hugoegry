@@ -15,7 +15,7 @@
   <a href="mailto:hugo.egry@epitech.eu"><img src="https://img.shields.io/badge/Email-hugo.egry@epitech.eu-blue?style=social&logo=gmail"></a> <!--@ = maildotru-->
   &nbsp;
   <!-- Repo stars -->
-  <a href="https://github.com/rishikagupta2468?tab=stars"><img src="https://img.shields.io/github/stars/hugoegry?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/hugoegry?tab=stars"><img src="https://img.shields.io/github/stars/hugoegry?style=social" alt="GitHub stars"></a>
 </p>
 <br><br>
 <h2 align="center"><img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" height="30" width="30"> About Me</h2>
