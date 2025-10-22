@@ -198,10 +198,10 @@ I am currently seeking a <strong>work-study</strong> opportunity to apply my ski
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=hugoegry&layout=compact&show_icons=true&count_private=true&theme=radical&border_radius=25" alt="Stats" width="100%">
+      <img src="https://github-readme-stats-seven-orcin-82.vercel.app/api?username=hugoegry&layout=compact&show_icons=true&count_private=true&theme=radical&border_radius=25" alt="Stats" width="100%">
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoegry&layout=compact&show_icons=true&count_private=true&theme=radical&border_radius=25" alt="Langages" width="100%">
+      <img src="https://github-readme-stats-seven-orcin-82.vercel.app/api/top-langs/?username=hugoegry&layout=compact&show_icons=true&count_private=true&theme=radical&border_radius=25" alt="Langages" width="100%">
     </td>
   </tr>
 </table>
