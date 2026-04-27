@@ -57,6 +57,7 @@ I am currently seeking a <strong>work-study</strong> opportunity to apply my ski
 <h3>Programming Languages</h3>
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%270065.svg?logo=cshrp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS%203-%231572B6.svg?&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML%205-%23E34F26.svg?&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-%23ED8B00.svg?&logo=openjdk&logoColor=white"/>
