@@ -81,6 +81,7 @@ I am currently seeking a <strong>work-study</strong> opportunity to apply my ski
   <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff"/>
   <img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff"/>
   <img src="https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
 </p>
 
 <h3>Databases & Data Management</h3>
