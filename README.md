@@ -100,9 +100,9 @@ I am currently seeking a <strong>work-study</strong> opportunity to apply my ski
 
 <h3>Business & Automation Platforms</h3>
 <p>
-  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20Apps-742774?logo=powerapps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dynamics%20365-002050?logo=microsoftdynamics365&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?logo=microsoftpowerautomate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white"/>
 </p>
 
